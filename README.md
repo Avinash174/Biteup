@@ -1,4 +1,4 @@
-# biteup
+# Biteup
 
 A new Flutter project.
 
